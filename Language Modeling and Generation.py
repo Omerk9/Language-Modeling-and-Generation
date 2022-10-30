@@ -5,6 +5,7 @@ import math
 import collections
 from collections import defaultdict
 
+
 class Ngram_Language_Model:
     """
         The class implements a Markov Language Model that learns a language model from a given text.
